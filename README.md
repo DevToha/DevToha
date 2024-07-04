@@ -22,6 +22,9 @@
 ### 📈 Contribution Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=DevToha&theme=tokyonight)](https://git.io/streak-stats)
 
+### 🌟 Languages Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevToha&layout=compact&theme=radical)
+
 ### Curent Overview
 🌐 Web Developer
 - 🛠️ Building seamless web experiences with HTML, CSS, JavaScript, and React.
