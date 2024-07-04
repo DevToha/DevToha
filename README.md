@@ -14,14 +14,17 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/-DaisyUI-FF6B6B?style=flat-square&logoColor=white)
+
 
 ### 🚀 Projects
-- [**AI Tourist Guide**](https://www.coinvent.ai/) - Your personal AI-powered travel assistant.
-- [**Project Name**](Link) - Short project description.
-- [**Project Name**](Link) - Short project description.
+- [**Inscribe**](https://assignment-12-fb293.web.app/) - Your personal AI-powered travel assistant.
+- [**Career Finder**](https://assignment-11-f5d5e.web.app/) - Short project description.
+- [**Brush Strokes**](https://assignment-10-7bf9f.web.app/) - Short project description.
 
-### 📊 GitHub Stats
-![Toha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ### 📈 Contribution Stats
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
