@@ -1,6 +1,6 @@
 # Hi there, I'm Toha Khan! 👋
 
-## 🌐 Web Developer | 🚀 Innovator
+## 🌐 Web Developer
 ![Blue Brown White Modern Web Developer LinkedIn Banner](https://github.com/DevToha/DevToha/assets/155313075/9b919f26-3391-42e0-a4dc-ca154583ee6d)
 
 
@@ -25,10 +25,6 @@
 
 ### 📈 Contribution Stats
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
-
-### 🌟 Additional Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
