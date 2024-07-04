@@ -1,6 +1,8 @@
 # Hi there, I'm Toha Khan! 👋
 
 ## 🌐 Web Developer | 🚀 Innovator
+![Blue Brown White Modern Web Developer LinkedIn Banner](https://github.com/DevToha/DevToha/assets/155313075/9b919f26-3391-42e0-a4dc-ca154583ee6d)
+
 
 - 🛠️ Building seamless web experiences with HTML, CSS, JavaScript, and React.
 - 🎓 Certified from Programming Hero | AI enthusiast.
