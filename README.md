@@ -1,7 +1,8 @@
 ![Profile Banner](https://github.com/DevToha/DevToha/assets/155313075/9b919f26-3391-42e0-a4dc-ca154583ee6d)
 
 
-### 🔧 Technologies & Tools
+
+### 🔧 Technologies & Tools That I Know
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -15,19 +16,23 @@
 
 
 ### 🚀 Projects
-- [**Inscribe**](https://assignment-12-fb293.web.app/) - Your personal AI-powered travel assistant.
-- [**Career Finder**](https://assignment-11-f5d5e.web.app/) - Short project description.
-- [**Brush Strokes**](https://assignment-10-7bf9f.web.app/) - Short project description.
+- [**Inscribe**](https://assignment-12-fb293.web.app/) - Collaborative Study Platfrom - [**Repository**](https://github.com/DevToha/Inscribe)
+- [**Career Finder**](https://assignment-11-f5d5e.web.app/) - Find Your Dream Jobs Based On Your Skill - [**Repository**](https://github.com/DevToha/Career-Finder)
+- [**Brush Strokes**](https://assignment-10-7bf9f.web.app/) - Sell Or Buy Paninting From Brush Strokes - [**Repository**](https://github.com/DevToha/Brush-Strokes)
+
 
 
 ### 📈 Contribution Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=DevToha&theme=tokyonight)](https://git.io/streak-stats)
 
+
 ### 🌟 Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevToha&layout=compact&theme=radical)
 
+
 ### 📊 GitHub Profile Stats
 ![Toha's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevToha&show_icons=true&theme=radical)
+
 
 ### ✨ Custom Quote
 > "The best way to predict the future is to invent it." - Alan Kay
@@ -35,17 +40,14 @@
 ### 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=DevToha&color=blue&style=flat-square)
 
-### 🕒 Recent Activity
-<!--START_SECTION:activity-->
-1. 💻 Opened a new issue in [repo](https://github.com/repo)
-2. 🛠️ Fixed a bug in [repo](https://github.com/repo)
-3. 🚀 Launched a new project [repo](https://github.com/repo)
 
 ### Curent Overview
 🌐 Web Developer
 - 🛠️ Building seamless web experiences with HTML, CSS, JavaScript, and React.
 - 🎓 Certified from Programming Hero | AI enthusiast.
 - 📈 Always learning and growing.
+- 🎓 Certified from Programming Hero
+  
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
