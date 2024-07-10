@@ -16,7 +16,7 @@
 
 
 ### 🚀 Projects
-- [**Inscribe**](https://assignment-12-fb293.web.app/) - Collaborative Study Platfrom - [**Repository**](https://github.com/DevToha/Inscribe)
+- [**Inscribe**](https://assignment-12-fb293.web.app/) - Collaborative Study Platform - [**Repository**](https://github.com/DevToha/Inscribe)
 - [**Career Finder**](https://assignment-11-f5d5e.web.app/) - Find Your Dream Jobs Based On Your Skill - [**Repository**](https://github.com/DevToha/Career-Finder)
 - [**Brush Strokes**](https://assignment-10-7bf9f.web.app/) - Sell Or Buy Paninting From Brush Strokes - [**Repository**](https://github.com/DevToha/Brush-Strokes)
 
